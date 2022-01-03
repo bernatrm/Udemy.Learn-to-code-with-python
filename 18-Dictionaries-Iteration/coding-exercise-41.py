@@ -55,6 +55,3 @@ coasters = {
 
 print("coaster_conversion")
 print(coaster_conversion(coasters) == {'Kingda Ka': 456, 'Top Thrill Dragster': 427, 'Superman: Escape From Krypton': 413})
-
-numbers = [3, 6, 7, 12, 15]
-print({ number:number**3 for number in numbers})
