@@ -1,0 +1,8 @@
+{
+    "editor.minimap.enabled": false,
+    "files.autoSave": "onFocusChange",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.showExecutionMessage": false,
+    "workbench.panel.defaultLocation": "bottom"
+}

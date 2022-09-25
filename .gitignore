@@ -1,2 +1,13 @@
-/.vscode
-/_pycache
+# python
+**/__pycache__
+*.pyc
+*$py.class
+
+# Visual Studio Code # 
+.history
+.gitignore
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
