@@ -1,6 +1,13 @@
+from copy import copy
+
+
 class Hand():  
-    def __init__(self, cards: list) -> None:
-        copy = cards[:]
+    def __init__(self) -> None:
+        self.cards = []
+    
+    def add_cards(self, cards) -> None:
+        copy = self.cards[:]
+        copy.extend(cards)
         copy.sort()
         self.cards = copy
 
