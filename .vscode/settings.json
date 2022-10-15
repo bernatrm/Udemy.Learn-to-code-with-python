@@ -4,5 +4,6 @@
     "code-runner.clearPreviousOutput": true,
     "code-runner.saveAllFilesBeforeRun": true,
     "code-runner.showExecutionMessage": false,
-    "workbench.panel.defaultLocation": "bottom"
+    "workbench.panel.defaultLocation": "bottom",
+    "python.analysis.typeCheckingMode": "basic"
 }
